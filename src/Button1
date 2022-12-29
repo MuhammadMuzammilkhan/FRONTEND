@@ -1,0 +1,11 @@
+import React from 'react';
+import { Button1 } from 'bootstrap';
+const Button1 = () => {
+    return (
+        <div>
+            <Button1>submitt</Button1>
+        </div>
+    );
+}
+
+export default Button1;
